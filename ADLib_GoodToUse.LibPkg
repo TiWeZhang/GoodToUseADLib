@@ -83,6 +83,23 @@ GenerateClassCluster=0
 DocumentUniqueId=AYUBTJKO
 
 [Document3]
+DocumentPath=pcb_ConnectorSpecial.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=UJGQXJHC
+
+[Document4]
 DocumentPath=pcb_IntegratedCircuit.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -99,8 +116,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RTKXNTNQ
 
-[Document4]
-DocumentPath=pcb_Connector.PcbLib
+[Document5]
+DocumentPath=pcb_ConnectorGeneral.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -116,7 +133,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CIIPOTOX
 
-[Document5]
+[Document6]
 DocumentPath=pcb_Oscillator.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -133,7 +150,41 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WTJATGRE
 
-[Document6]
+[Document7]
+DocumentPath=pcb_Mechanical.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=TAXXFJXI
+
+[Document8]
+DocumentPath=pcb_Module.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=BSYPHFWE
+
+[Document9]
 DocumentPath=pcb_Switch.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -150,7 +201,24 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FMDRWUJC
 
-[Document7]
+[Document10]
+DocumentPath=pcb_GasSensor_Enose.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=LMTARJSS
+
+[Document11]
 DocumentPath=sch_Passive.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -276,7 +344,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=NatonPrint(彩色)
+TargetPrinter=NatonPrint(黑白)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
