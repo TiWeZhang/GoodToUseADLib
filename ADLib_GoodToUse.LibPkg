@@ -49,7 +49,24 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=pcb_Passive.PcbLib
+DocumentPath=pcb_PassiveRes.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=KFKQWLHO
+
+[Document2]
+DocumentPath=pcb_PassiveInd.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -65,7 +82,24 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HFMRMXSU
 
-[Document2]
+[Document3]
+DocumentPath=pcb_PassiveCap.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=AMHFYAGT
+
+[Document4]
 DocumentPath=pcb_Diode.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -82,7 +116,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AYUBTJKO
 
-[Document3]
+[Document5]
 DocumentPath=pcb_ConnectorSpecial.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -99,7 +133,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UJGQXJHC
 
-[Document4]
+[Document6]
 DocumentPath=pcb_IntegratedCircuit.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -116,7 +150,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RTKXNTNQ
 
-[Document5]
+[Document7]
 DocumentPath=pcb_ConnectorGeneral.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -133,7 +167,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CIIPOTOX
 
-[Document6]
+[Document8]
 DocumentPath=pcb_Oscillator.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -150,7 +184,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WTJATGRE
 
-[Document7]
+[Document9]
 DocumentPath=pcb_Mechanical.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -167,7 +201,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TAXXFJXI
 
-[Document8]
+[Document10]
 DocumentPath=pcb_Module.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -184,7 +218,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BSYPHFWE
 
-[Document9]
+[Document11]
 DocumentPath=pcb_Switch.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -200,40 +234,6 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FMDRWUJC
-
-[Document10]
-DocumentPath=pcb_GasSensor_Enose.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=LMTARJSS
-
-[Document11]
-DocumentPath=sch_Passive.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=QZKLEDHT
 
 [Document12]
 DocumentPath=pcb_Sensor.PcbLib
@@ -253,7 +253,7 @@ GenerateClassCluster=0
 DocumentUniqueId=RACARSSW
 
 [Document13]
-DocumentPath=pcb_PassiveRes.PcbLib
+DocumentPath=sch_Passive.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -267,24 +267,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=KFKQWLHO
-
-[Document14]
-DocumentPath=pcb_PassiveCap.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=AMHFYAGT
+DocumentUniqueId=QZKLEDHT
 
 [OutputGroup1]
 Name=Netlist Outputs
