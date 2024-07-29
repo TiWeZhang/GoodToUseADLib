@@ -100,7 +100,7 @@ GenerateClassCluster=0
 DocumentUniqueId=AMHFYAGT
 
 [Document4]
-DocumentPath=pcb_Diode.PcbLib
+DocumentPath=pcb_Active.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -287,7 +287,7 @@ GenerateClassCluster=0
 DocumentUniqueId=OLMXWDML
 
 [Document15]
-DocumentPath=sch_Diode.SchLib
+DocumentPath=sch_Active.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -304,7 +304,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document16]
-DocumentPath=sch_Connector.SchLib
+DocumentPath=sch_ConnectorSpecial.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -321,7 +321,7 @@ GenerateClassCluster=0
 DocumentUniqueId=PGQKIXJH
 
 [Document17]
-DocumentPath=sch_ConnectorHDR.SchLib
+DocumentPath=sch_ConnectorGeneral.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -386,7 +386,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=EWLQUBKI
 
 [Document21]
 DocumentPath=sch_Oscillator.SchLib
@@ -420,7 +420,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=UDJUSAWS
 
 [Document23]
 DocumentPath=sch_Sensor.SchLib
